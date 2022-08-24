@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="somar">SOMAR</string>
+    <string name="subitrair">SUBITRAIR</string>
+    <string name="multiplicar">MULTIPLICAR</string>
+    <string name="dividir">DIVIDIR</string>
+    <string name="valor1">Informe o primeiro valor</string>
+    <string name="valor2">Informe o segundo valor</string>
+    <string name="resultado">O resultado é:</string>
+</resources>
